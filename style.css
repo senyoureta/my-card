@@ -134,7 +134,7 @@ body {
 /* ---------- Hero ---------- */
 .hero {
   background: linear-gradient(135deg, var(--primary-dark), var(--primary));
-  color: #fff;
+  color: hwb(57 9% 19%);
   padding: 5rem 0 4.5rem;
   text-align: center;
   border-bottom: 6px solid var(--accent);
